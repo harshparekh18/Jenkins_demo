@@ -8,7 +8,9 @@ public class HelloWorldTest {
 
 	@Test
 	public void test() {
-		System.out.print("abc");
+		int a = 5;
+		System.out.println("abc");
+		System.out.println(a);
 	}
 
 }
